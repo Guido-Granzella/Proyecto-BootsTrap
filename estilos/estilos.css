@@ -21,7 +21,7 @@ header {
     top: 0;
     padding: 1em 0em 1em 0em;
     border: 0em 1em 1em 1em;
-    background-image: linear-gradient(to bottom, #083359, #6cc5d9)
+    /* background-image: linear-gradient(to bottom, #083359, #6cc5d9) */
 }
 
 header div nav ul {
